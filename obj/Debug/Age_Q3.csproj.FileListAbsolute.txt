@@ -1,8 +1,0 @@
-E:\programming code\c#\Age_Q3\Age_Q3\bin\Debug\Age_Q3.exe.config
-E:\programming code\c#\Age_Q3\Age_Q3\bin\Debug\Age_Q3.exe
-E:\programming code\c#\Age_Q3\Age_Q3\bin\Debug\Age_Q3.pdb
-E:\programming code\c#\Age_Q3\Age_Q3\obj\Debug\Age_Q3.csproj.SuggestedBindingRedirects.cache
-E:\programming code\c#\Age_Q3\Age_Q3\obj\Debug\Age_Q3.csproj.CoreCompileInputs.cache
-E:\programming code\c#\Age_Q3\Age_Q3\obj\Debug\Age_Q3.exe
-E:\programming code\c#\Age_Q3\Age_Q3\obj\Debug\Age_Q3.pdb
-E:\programming code\c#\Age_Q3\Age_Q3\obj\Debug\Age_Q3.csproj.AssemblyReference.cache
