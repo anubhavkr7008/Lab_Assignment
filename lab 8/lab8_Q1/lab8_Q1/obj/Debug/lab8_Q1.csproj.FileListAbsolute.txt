@@ -1,3 +1,0 @@
-C:\Users\Anubhav Kumar\OneDrive\Desktop\lab 8\lab8_Q1\lab8_Q1\obj\Debug\lab8_Q1.csproj.AssemblyReference.cache
-C:\Users\Anubhav Kumar\OneDrive\Desktop\lab 8\lab8_Q1\lab8_Q1\obj\Debug\lab8_Q1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Anubhav Kumar\OneDrive\Desktop\lab 8\lab8_Q1\lab8_Q1\obj\Debug\lab8_Q1.csproj.CoreCompileInputs.cache
